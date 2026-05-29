@@ -1,9 +1,11 @@
 <img width="2000" height="600" alt="coverimage" src="https://github.com/user-attachments/assets/bbcc63eb-d11e-475c-93f2-c14f90552888" />
 
 👋 Hi there, I'm Anne Merinka!
+
 🔐 Cybersecurity Enthusiast | Python, Linux & Secure Web Applications
 
 --ABOUT ME--
+
 🎓 Computer Security Undergraduate — University of Plymouth (NSBM Green University)
 🛡️ Passionate about cybersecurity, secure authentication systems, threat detection, and secure web application development
 💻 Experienced with Python, Flask, Linux environments, virtualization, and web technologies through academic and personal projects
