@@ -4,7 +4,7 @@
 
 **🔐 Cybersecurity Enthusiast | Python, Linux & Secure Web Applications**
 
-**ABOUT ME**<br>
+ **ABOUT ME**<br>
 🎓 Computer Security Undergraduate — University of Plymouth (NSBM Green University)<br>
 🛡️ Passionate about cybersecurity, secure authentication systems, threat detection, and secure web application development<br>
 💻 Experienced with Python, Flask, Linux environments, virtualization, and web technologies through academic and personal projects<br>
@@ -12,7 +12,7 @@
 🚀 Currently building technical projects focused on login security, infrastructure automation, and secure system development<br>
 🌱 Continuously learning cybersecurity tools, Linux systems, SIEM concepts, and secure application practices<br>
 
-**🔍 Areas of Interest**
+**🔍 Areas of Interest**<br>
 -Cybersecurity<br>
 -Secure Authentication Systems<br>
 -Web Security<br>
@@ -23,7 +23,7 @@
 -Python-Based Security Tools<br>
 -Secure Application Development<br>
 
-**🚀 What I'm Working On**
+**🚀 What I'm Working On**<br>
 🔐 Non-Locking Bot Mitigation System for Web Login Security (Final Year Project)<br>
 ⚙️ Containerized Infrastructure & SDN-Based Adaptive Streaming Environment<br>
 🎬 Cinema Ticketing System using Java, JSP, Servlets & MySQL<br>
@@ -78,6 +78,7 @@
 -Microsoft Office<br>
 
 **📌 Featured Projects**<br>
+
 #🔐 Non-Locking Bot Mitigation System for Web Login Security<br>
 Developed a web-based authentication security system designed to detect and mitigate automated login bot attacks without locking legitimate users out of the system
 Implemented behavioral analysis, risk scoring, honeypot detection, and adaptive security mechanisms<br>
